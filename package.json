@@ -8,25 +8,25 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "@react-native-community/masked-view": "0.1.5",
+    "@react-native-community/masked-view": "0.1.10",
     "@react-navigation/native": "^5.1.0",
     "@react-navigation/stack": "^5.2.1",
-    "expo": "~36.0.0",
+    "expo": "^38.0.0",
     "immutability-helper": "^3.0.1",
-    "react": "~16.9.0",
-    "react-dom": "~16.9.0",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz",
+    "react": "16.11.0",
+    "react-dom": "16.11.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-38.0.2.tar.gz",
     "react-native-elements": "^1.2.7",
     "react-native-event-source": "^1.1.0",
-    "react-native-gesture-handler": "~1.5.0",
-    "react-native-reanimated": "~1.4.0",
-    "react-native-safe-area-context": "0.6.0",
-    "react-native-screens": "2.0.0-alpha.12",
+    "react-native-gesture-handler": "~1.6.0",
+    "react-native-reanimated": "~1.9.0",
+    "react-native-safe-area-context": "~3.0.7",
+    "react-native-screens": "~2.9.0",
     "react-native-track-player": "^1.2.2",
     "react-native-web": "~0.11.7"
   },
   "devDependencies": {
-    "babel-preset-expo": "~8.0.0",
+    "babel-preset-expo": "^8.2.3",
     "@babel/core": "^7.0.0"
   },
   "private": true
